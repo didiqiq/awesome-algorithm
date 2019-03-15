@@ -18,3 +18,4 @@ class Solution:
                 j += 1
             else:
                 return True
+        return False
